@@ -1,0 +1,10 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "aura",
+      "lunch habit method sniff question icon food search hospital chat river fruit",
+      "5F2MhmzPBPG7f3JkqebeDAwZUt4t6pL8sXa4eeQwsnaiTTqh"
+    ]
+}

@@ -10,3 +10,6 @@
 
 ## 第二题
 Chain Spec配置文件放在/question2目录
+
+## 第三题附加题
+第三题相关文件放在/question3目录

@@ -1,0 +1,10 @@
+{
+    "jsonrpc":"2.0",
+    "id":1,
+    "method":"author_insertKey",
+    "params": [
+      "gran",
+      "march foot below motion vivid juice follow spell rapid vote charge victory",
+      "5Ccev7iJLnYguiwwrR5YpojA58oRqCWKqpy19E7AmbYJyMw7"
+    ]
+}
